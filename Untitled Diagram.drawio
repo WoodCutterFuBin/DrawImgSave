@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T15:08:21.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="6Q7DsB-X0v79xkGihxpo" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-17T15:12:42.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="qMmL525oW-UhSEkDSulM" version="14.6.1" type="github">
   <diagram id="NQg7N4jOo25hOMYcQDwd" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gCGJLo1h55jw5iiLzmK--6" value="Zookeeper" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="190" y="150" width="980" height="30" as="geometry" />
+          <mxGeometry x="190" y="150" width="880" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCGJLo1h55jw5iiLzmK--10" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="MsmXUfVo2EC0O6i1yfot-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -99,8 +99,8 @@
         <mxCell id="gCGJLo1h55jw5iiLzmK--58" value="Data Minning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="630" y="590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gCGJLo1h55jw5iiLzmK--59" value="Data Minning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="770" y="590" width="120" height="40" as="geometry" />
+        <mxCell id="gCGJLo1h55jw5iiLzmK--59" value="Data Gov" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="775" y="590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gCGJLo1h55jw5iiLzmK--60" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.815;exitY=0.005;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;fontSize=15;" edge="1" parent="1" source="gCGJLo1h55jw5iiLzmK--45" target="gCGJLo1h55jw5iiLzmK--40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gCGJLo1h55jw5iiLzmK--64" value="Elasticsearch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="910" y="590" width="120" height="40" as="geometry" />
+          <mxGeometry x="920" y="590" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
